@@ -17,6 +17,13 @@ gem 'rspec', '~> 3.4'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
+#gem twitter bootstrap 
+gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
+
+#some dependencies we need to install to use twitter bootstrap
+gem "therubyracer"
+gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
+
 # Use twitter bootstrap sass
 gem 'autoprefixer-rails'
 gem 'font-awesome-rails'
@@ -40,17 +47,7 @@ group :production do
   gem 'rails_12factor'
 end
 
-gem 'devise'
-gem 'carrierwave'
-gem 'friendly_id'
 
-gem 'will_paginate'
-gem 'public_activity'
-
-gem 'acts_as_votable'
-gem 'acts_as_commentable'
-gem 'acts_as_follower'
-gem 'counter_culture'
 
 
 # Use ActiveModel has_secure_password
