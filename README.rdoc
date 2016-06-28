@@ -1,28 +1,7 @@
-== README
+== skill shared
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a place where you go to get different skills, a place you can find friends to teach you something and you can teach something to someone. This idea comes through the idea I had about how hard is to learn something new completally alone. Nowadays we have a lot of tutorials and many free books on the internet but they dont really leart you how to save time in your learn process. And they dont teach you by mistakes. 
+o my mainly idea is to have a place you can do it with another person who's like you trying to learn something too.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I hope you enjoy,
+Neno

@@ -35,7 +35,6 @@ end
 group :production do
   gem 'pg'
   gem 'unicorn'
-  gem 'cloudinary'
   gem 'rails_12factor'
 end
 
