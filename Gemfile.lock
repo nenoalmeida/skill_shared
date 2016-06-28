@@ -265,6 +265,7 @@ DEPENDENCIES
   public_activity
   rails (= 4.2.5.2)
   rails_12factor
+  rspec (~> 3.4)
   sass-rails (~> 5.0)
   spring
   sqlite3

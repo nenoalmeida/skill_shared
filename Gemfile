@@ -11,6 +11,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+#gem rspec for unit tests
+gem 'rspec', '~> 3.4'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
@@ -50,9 +52,6 @@ gem 'acts_as_commentable'
 gem 'acts_as_follower'
 gem 'counter_culture'
 
-gem 'faker'
-gem 'populator'
-gem 'auto_html'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
