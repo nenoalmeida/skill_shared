@@ -1,3 +1,9 @@
+<a href="https://codeclimate.com/repos/5772f612192cc5007e0009ed/feed"><img src="https://codeclimate.com/repos/5772f612192cc5007e0009ed/badges/2fc8e0825caed8692c39/gpa.svg" /></a>
+
+<a href="https://codeclimate.com/repos/5772f612192cc5007e0009ed/coverage"><img src="https://codeclimate.com/repos/5772f612192cc5007e0009ed/badges/2fc8e0825caed8692c39/coverage.svg" /></a>
+
+<a href="https://codeclimate.com/repos/5772f612192cc5007e0009ed/feed"><img src="https://codeclimate.com/repos/5772f612192cc5007e0009ed/badges/2fc8e0825caed8692c39/issue_count.svg" /></a>
+
 == skill shared
 
 This is a place where you go to get different skills, a place you can find friends to teach you something and you can teach something to someone. This idea comes through the idea I had about how hard is to learn something new completally alone. Nowadays we have a lot of tutorials and many free books on the internet but they dont really leart you how to save time in your learn process. And they dont teach you by mistakes. 
