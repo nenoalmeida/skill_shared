@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/repos/5772f612192cc5007e0009ed/badges/2fc8e0825caed8692c39/gpa.svg)](https://codeclimate.com/repos/5772f612192cc5007e0009ed/feed)
+{<img src="https://codeclimate.com/repos/5772f612192cc5007e0009ed/badges/2fc8e0825caed8692c39/gpa.svg" />}[https://codeclimate.com/repos/5772f612192cc5007e0009ed/feed]
 
 <a href="https://codeclimate.com/repos/5772f612192cc5007e0009ed/coverage"><img src="https://codeclimate.com/repos/5772f612192cc5007e0009ed/badges/2fc8e0825caed8692c39/coverage.svg" /></a>
 
