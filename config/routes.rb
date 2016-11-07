@@ -1,9 +1,10 @@
 Rails.application.routes.draw do
-  devise_for :users, :controllers => { :omniauth_callbacks => "callbacks" }
+  devise_for :controllers => { :omniauth_callbacks => "callbacks" }
+  
   get 'welcome/index'
 
   resources :users
-  root 'welcome#index'
+  #root 'welcome#index'
 
  
 end
